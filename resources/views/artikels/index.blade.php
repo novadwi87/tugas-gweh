@@ -13,7 +13,7 @@
                     <table class="table table-bordered">
                         <thead>
                             <tr>
-                                <th scope="col">Gambar</th>
+                                <th scope="col">anyinkr</th>
                                 <th scope="col">Judul</th>
                                 <th scope="col">Deskripsi</th>
                             </tr>
